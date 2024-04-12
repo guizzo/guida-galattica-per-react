@@ -1,4 +1,11 @@
 # Guida Galattica per React
+
+<p align="center">
+  <img 
+    src="./assets/guida-galattica-per-react-logo.webp" 
+    alt="Guida Galattica per React - Logo">
+</p>
+
 Un repository in formato markdown per esplorare React. Include appunti dettagliati su sintassi, componenti, gestione dello stato e pattern avanzati. Pensato come una guida per principianti ed esperti.
 
 ---
